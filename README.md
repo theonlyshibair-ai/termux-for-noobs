@@ -20,7 +20,7 @@ Getting started is as easy as running a few simple commands. Just follow these s
     Use `curl` to download the script directly from the repository.
 
     ```bash
-    curl -o start.sh [https://raw.githubusercontent.com/theonlyshibair-ai/termux-for-noobs/main/start.sh](https://raw.githubusercontent.com/theonlyshibair-ai/termux-for-noobs/main/start.sh)
+    curl -o start.sh https://raw.githubusercontent.com/theonlyshibair-ai/termux-for-noobs/main/start.sh
     ```
 
 2.  **Make the script executable**
